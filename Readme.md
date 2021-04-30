@@ -15,9 +15,17 @@
 
 #### SETUP
 
+<p>Make sure you have installed nodejs on your machine.</p>
+
 ```console
 $ git clone https://github.com/nandymandy1/express-rest-auth.git
 $ cd express-rest-auth && npm install
+```
+
+<p>To view all available routes in this app.</p>
+
+```console
+$ npm run view-routes
 ```
 
 <p>To Support Us you can subscribe to my Youtube Channel. <a href="https://www.youtube.com/channel/UC7fpWskUFi90sANs9QXRVsg" target="_blank">Codebook Inc.</a></p>
