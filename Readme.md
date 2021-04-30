@@ -15,7 +15,7 @@
 
 #### SETUP
 
-<p>Make sure you have installed nodejs on your machine.</p>
+<p>Make sure you have nodejs installed on your machine.</p>
 
 ```console
 $ git clone https://github.com/nandymandy1/express-rest-auth.git
