@@ -22,6 +22,16 @@ $ git clone https://github.com/nandymandy1/express-rest-auth.git
 $ cd express-rest-auth && npm install
 ```
 
+#### Configure Environment Variables
+
+<p>Update the .env file which is in the root.</p>
+
+```env
+PORT=5000
+SECRET=1234567890
+DB=mongodb://localhost:27017/auth-server
+```
+
 <p>To view all available routes in this app.</p>
 
 ```console
