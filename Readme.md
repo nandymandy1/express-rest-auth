@@ -13,5 +13,4 @@
     <li>React Native</li>
 </ul>
 
-<p>To Support Us you can subscribe to my Youtube Channel</p>
-<a href="https://www.youtube.com/channel/UC7fpWskUFi90sANs9QXRVsg" target="_blank">Codebook Inc.</a>
+<p>To Support Us you can subscribe to my Youtube Channel. <a href="https://www.youtube.com/channel/UC7fpWskUFi90sANs9QXRVsg" target="_blank">Codebook Inc.</a></p>
