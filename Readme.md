@@ -13,4 +13,11 @@
     <li>React Native</li>
 </ul>
 
+#### SETUP
+
+```console
+$ git clone https://github.com/nandymandy1/express-rest-auth.git
+$ cd express-rest-auth && npm install
+```
+
 <p>To Support Us you can subscribe to my Youtube Channel. <a href="https://www.youtube.com/channel/UC7fpWskUFi90sANs9QXRVsg" target="_blank">Codebook Inc.</a></p>
